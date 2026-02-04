@@ -1,0 +1,6 @@
+streamlit
+pandas
+PyGithub
+pytz
+Pillow
+openpyxl
